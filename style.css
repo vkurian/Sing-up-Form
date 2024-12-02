@@ -1,1 +1,70 @@
  
+ 
+
+ form{
+    margin-top:30vh;
+ }
+.password{
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+   margin-right: 11px ;
+
+}
+#ConfirmPassword1{
+   margin-left: 12px;
+   margin-right:  4px; ;
+}
+ 
+ #Name{
+    display: flex;
+    justify-content: center;
+    margin-right:5px
+ }
+
+ #cred{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+ }
+ #last{
+    margin-left:  5px; 
+ }
+ #first{
+    margin-left:  5px; 
+
+ }
+ #phone{
+   margin-right: 5px;
+ }
+
+
+ 
+ 
+ #submit1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    
+ }
+
+ #email1{
+    margin-right:10px;
+    margin-left: 5px;
+ }
+u{
+   color: blue;
+}
+
+#login{
+   display: flex;
+   justify-content: center;
+
+}
+
+h1{
+   display: flex;
+   justify-content: center;
+}
+
+    
